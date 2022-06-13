@@ -22,7 +22,7 @@ export class PrimeCalculator
             count++;
 
          idx++;
-         console.log(idx);
+         // console.log(idx);
       }
 
       return idx - 1;
